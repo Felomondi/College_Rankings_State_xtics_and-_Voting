@@ -155,7 +155,7 @@ full_data |>
                                   "UNC-Chapel Hill", "Vassar College"))
 ```
 - The plot shows that Vassar College has been ranked the highest among the four 
-schools over time. Boston University's ranking has been increasing over time , 
+schools over time. Boston Universitys ranking has been increasing over time , 
 while University of North Carolina-Chapel Hill has received almost steady 
 rankings over time.University of North Carolina and Kenyon College received the 
 same rankings in 2015.
